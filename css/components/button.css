@@ -1,0 +1,8 @@
+.btn-primary {
+  display: inline-block; /*Tag 'a' é by default inline o que nao permite margem, hight... com isso o 'p' e o 'a' se misturariam*/
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
